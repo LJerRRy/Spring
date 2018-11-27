@@ -118,7 +118,7 @@ protected ConfigurableEnvironment createEnvironment() {
 
 ![Environment继承体系](images/Environment.jpg)
 
-Environmen接口**代表了当前应用所处的环境。**从此接口的方法可以看出，其主要和profile、Property相关。
+Environment接口**代表了当前应用所处的环境。**从此接口的方法可以看出，其主要和profile、Property相关。
 
 ##### Profile
 
